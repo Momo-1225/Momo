@@ -3,4 +3,4 @@
   
   
   
-  [My resume](https://github.com/Momo-1225/Momo/raw/gh-pages/resume.pdf)
+  [Get my resume](https://github.com/Momo-1225/Momo/raw/gh-pages/resume.pdf)
